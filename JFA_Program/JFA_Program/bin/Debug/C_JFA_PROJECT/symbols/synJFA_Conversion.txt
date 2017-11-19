@@ -1,0 +1,6 @@
+customers,people,followers,buyers,client,individuals,consumers
+product,item,items,brand,website,app
+message,request,poke,comment
+visit,view,like,watch,observe
+store,shop
+catalogue,menu,brochure,flyers

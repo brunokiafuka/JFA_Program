@@ -1,0 +1,11 @@
+1. "When should I delete a message vs. archiving it?", "Archiving and Deleting Messages"  
+
+2. "How long do messages stay in my archive?", "Archiving and Deleting Messages" 
+
+3. "How long do messages stay in the Trash?", "Archiving and Deleting Messages" 
+
+4. "How do I move a message out of the Trash?", "Archiving and Deleting Messages" 
+
+5. "Why does a message I archived or deleted show up again in my Inbox?", "Archiving and Deleting Messages" 
+
+6. "Should I delete or archive message in my Sent folder?", "Archiving and Deleting Messages" 

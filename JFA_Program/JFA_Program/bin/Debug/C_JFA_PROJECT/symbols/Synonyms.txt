@@ -1,0 +1,27 @@
+configure,set up,configuration,setup, setting up
+forwarding,sending,dispatching,posting,mailing
+have,get,obtain,posess,occupy
+run out,exaust,finish,go
+access,enter,open,connect
+stop,suspend,block,bar,pause,control,cease,discontinue,halt,withhold
+grouped,assembled,clustered,categorized,classified,arranged,organized,put together
+mark,indicate,show,tick,label,tag 
+recall,revert, revise, revoke, bring back, get, retract, withdraw
+open,opening,read, reading,  accessed, accessing, gone through, going through,perused
+sent,dispatched,posted,mailed,forwarded,conveyed,sent out,transmitted
+work,perform
+make,put,select 
+click,open,hit
+device,gadget,mobile,pda
+email,mail
+space
+messages,communications
+offline,not online,logged off,disconnected
+conversations,categories,
+unread,not read,not opened,not viewed
+inbox,received
+message,communication
+Gmail
+default,main,custom
+program,box
+links,URL

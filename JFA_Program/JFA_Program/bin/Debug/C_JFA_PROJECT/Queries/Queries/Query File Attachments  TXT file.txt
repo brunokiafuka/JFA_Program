@@ -1,0 +1,7 @@
+1. "Is there a size or type limitation for file attachments in Gmail?", "File Attachments"  
+
+2. "Can I drag and drop a file to attach it to a message?", "File Attachments"
+
+3. "How can I copy a file attachment from one message to another?", "File Attachments"
+
+4. "Can I attach a message or conversation to a new message?", "File Attachments"

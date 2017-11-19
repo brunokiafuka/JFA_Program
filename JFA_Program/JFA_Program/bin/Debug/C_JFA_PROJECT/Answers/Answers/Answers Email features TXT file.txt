@@ -1,0 +1,15 @@
+1. "Yes, in Gmail, you can set up your "vacation responder," which is similar to the Out of Office feature in Outlook or Lotus Notes. For details, see the Gmail Help Center.", "Email features" 
+
+2. "Shared mailboxes aren't supported. However, you can easily set up an email filter (rule) to forward specific types of messages to another email.", "Email features"
+
+3. "Yes, Gmail includes a full set of keyboard shortcuts. First, you must enable keyboard shortcuts:
+	In the upper-right corner of the Mail window, click Settings.
+	Under Keyboard shortcuts, select Keyboard shortcuts on.
+	Click Save Settings.", "Email features"
+
+4. "Then, to see the shortcuts, press SHIFT+? while viewing your list of messages in the main Mail window.", "Email features"
+
+5. "Not exactly. But as a workaround, you can create your own mailing list (called a "group") for all the employees who want to share an email address. This requires that your administrator has enabled User-Managed groups for your domain. If user-managed groups aren't available, then you should ask your Google Apps administrator to set up a mailing list (group) for all the employees who want to share an email address.
+Or if email delegation is enabled for your domain, you can use that to allow up to 10 other users access a single email account.", "Email features"
+
+6. "Yes, the Google Task gadget is available in Gmail and Calendar. For details, see Using the Task gadget.", "Email features"

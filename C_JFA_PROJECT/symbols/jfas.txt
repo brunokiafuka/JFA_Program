@@ -1,0 +1,11 @@
+how,configure,mobile,device,q1
+how,forwarding,mail,q2
+how,have,run out,mail,messages,q3
+can, i,access,mail, offline,q4
+can, i,stop,grouped,messages,conversations,q5
+how,mark,open,messages,unread,inbox,q6
+can, i,recall,sent,message,q7
+how,work,Gmail,q8
+Can, i,click,Gmail,default, mail,program,links,q9
+when,is,comms,assignment,q10
+when,is,bay,assignment,q11

@@ -1,0 +1,43 @@
+
+
+1. "For android devices, you can download the app from the Google Play Store. ", "mobile App" 
+If you have an Apple device, you can download the app from iTunes.
+For all other devices, please visit witsmobi.wits.ac.za.
+Certain features of the app may require you to login. Please use your student credentials to log in.", "mobile App" 
+
+2. "To remove the app from the device, follow the standard procedure as per the device. 
+Android – in settings, select applications, find WitsM and uninstall.", "mobile App" 
+
+3. "Bus Schedule - View the latest bus timetable
+•	Comms – Receive important short messages from Wits University
+•	Contacts – Find a list of important contact details
+•	Exam Marks – View your mid-year and finals marks
+•	Maps – Pinpoint and get directions to Wits buildings on the campus relative to your current location
+•	Meals – Access the meal booking system for students who have a catered residence status
+•	News – See an RSS feed of all the latest news being published by Wits University
+•	Student Fees - Get a summary of your fees statements in a predefined date
+•	This is Wits – Hear the stories that make Wits the great place it is today
+•	Timetable – View your updated timetable of lectures with venues
+•	Voice of Wits – Listen to your favourite VOW FM DJS live", "mobile App" 
+
+4. "Click on the timetable icon. If you are already logged in it will display else it will prompt you to login.", "mobile App" 
+
+5. "The meal feature works exactly the same as the Wits Dining system that can be found here.
+
+6. "The comms feature allows Wits to deliver urgent short messages to any individual who has the device loaded at this time.", "mobile App"  
+
+7. "The WitsM app will run on Andriod 4 and higher and any device that can open a mobi site.", "mobile App" 
+
+8. "From your device, launch the application by selecting the "WitsM" icon.On certain features you will be asked for your login details.For the timetable feature, use your Wits google credentials:studno@students.wits.ac.za and your password.For the meals feature use your stud number and password.", "mobile App" 
+
+9. "To reset your password, click here and select the Password self service option.", "mobile App" 
+ 
+10. "Not at this time.", "mobile App" 
+
+11. "The app can be loaded on any number of devices.", "mobile App" 
+ 
+12. "As the devices stores the credentials, it is advisable for the owner of the device to use their credentials.", "mobile App" 
+
+13. "For use of the timetable feature, the login details are recorded. However, for the meals feature the student would need to log in each time.", "mobile App" 
+
+14. "To sign out of the timetable feature, select Settings and then select Logout.", "mobile App" 

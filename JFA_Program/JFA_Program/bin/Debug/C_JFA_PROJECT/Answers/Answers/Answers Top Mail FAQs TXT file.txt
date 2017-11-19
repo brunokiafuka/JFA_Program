@@ -1,0 +1,28 @@
+1. "Help files are available on the Google Documentation site", "Top Mail FAQs" 
+
+2. "Help files are available on the Google Documentation site", "Top Mail FAQs" 
+
+3. "Your account has 25 GB of storage. You'll probably never run out of space. In fact, a heavy email user who sends and receives lots of file attachments and archives all messages might use up to 5% of this space a year (usually less), so it would take decades to use up all of the available space. Also note that Google Apps restricts the size of file attachments to 20 MB, so you don't have to worry about a few large files using up your storage space.", "Top Mail FAQs" 
+
+4. "Yes, you can set up Gmail for offline access to your most recent email messages. To enable this feature, click Settings in the upper-right corner of your Mail window, click the Offline tab, and then click Enable Offline Mail for this computer. (Note, however, that if your Google Apps administrator has disabled offline access for your domain,  the Offline tab won't be available and you won't be able to use this feature.)", "Top Mail FAQs" 
+
+5. "Yes. Click Settings in the upper-right corner of your Gmail window and, on the General tab, scroll down to Conversation View.
+If Conversation View is off, new messages won't be grouped into conversations, and any existing conversations are ungrouped into separate messages.
+If Conversation View is on, you can't separate the messages in a conversation. However, if you want to send a reply but don't want it to be added to the conversation, you can simply change the subject line in your reply.", "Top Mail FAQs" 
+
+6. "Select the message. Then, in the More drop-down list, select Mark as unread.", "Top Mail FAQs" 
+
+7. "Yes, Gmail Labs has an early version of a new "message undo" feature that lets you recall a message within a few seconds after you send it. To enable the feature, open your Gmail Settings, go to the Labs tab, and enable the Undo Send lab.
+Note that your Google Apps administrator must enable Labs for your domain for this feature to be available.", "Top Mail FAQs" 
+
+8. "To search for messages, type a word that the messages contain. Note, however, that Search matches "whole words" only—that is, it doesn't recognize partial or similar matches. For example, if you search for benefits, Search won't find benefit or benef. Also, Search doesn't recognize special search characters, such as square brackets, parentheses, currency symbols, the ampersand, the pound sign, and asterisks.
+By default, Search doesn't look in your Trash or Spam folders. To search those folders also, clickShow search options next to the Search field, and then, in the Search drop-down list, select Mail & Spam & Trash. You can find more information about using Search in the Gmail Help Center.
+A list of the advanced search operators is available in the Gmail Help Center. You can also print outthis reference sheet.", "Top Mail FAQs" 
+
+9. "Yes, if Google Talk is enabled for your domain. In that case, specify Gmail as your default email program as follows:
+Open Google Talk.
+Click Settings in the upper-right corner of your contacts list.
+In the General dialog box, select Open Gmail when I click on email links.
+Click OK.
+Note, however, that this setting doesn't work for all email links.", "Top Mail FAQs" 
+

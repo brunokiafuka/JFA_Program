@@ -1,0 +1,7 @@
+brand,app,website,software,product,service,performance
+people,customer,client,user,consumers,buyers,individuals
+new,upcoming,up and coming,lanching,recent
+media,audio,video,images
+online,internet,net
+follow,followers
+reach,more

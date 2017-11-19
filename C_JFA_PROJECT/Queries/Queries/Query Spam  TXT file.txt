@@ -1,0 +1,2 @@
+1. "How long do messages remain in my Spam folder?", "Spam" 
+2. "How do I prevent messages from specific senders from being tagged as spam?", "Spam" 

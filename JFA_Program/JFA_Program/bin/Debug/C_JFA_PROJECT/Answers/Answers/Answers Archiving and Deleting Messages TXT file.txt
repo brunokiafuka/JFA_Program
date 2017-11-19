@@ -1,0 +1,11 @@
+1. "Deleting or archiving a message removes it from your inbox. If you delete a message, it's placed in the Trash and then permanently removed from your Google Apps account after 30 days. If you archive a message, it's moved to All Mail (your archive), where you can easily find it in the future, using Google's powerful search feature. Since you have plenty of space for storing all your mail (25 Gb), we recommend that you archive messages rather than permanently deleting them., "Archiving and Deleting Messages" 
+
+2. "Messages remain in your archive forever, unless you choose to delete them., "Archiving and Deleting Messages" 
+
+3. "Messages remain in the Trash for 30 days. After that, Gmail permanently deletes them., "Archiving and Deleting Messages" 
+
+4. "Find the message in the Trash and select it. Then, in the Move to drop-down list at the top of the Mail window, select Inbox., "Archiving and Deleting Messages" 
+
+5. "If someone replies to a message you archived or trashed, that message reappears in your Inbox as a conversation, bringing the message you archived or deleted, with it. If the message has already been permanently deleted from the Trash, you'll see an option at the bottom of the message to view the deleted messages in the conversation., "Archiving and Deleting Messages" 
+
+6. "There's no need to delete or archive messages in the Sent folder. Messages remain in this folder forever, unless you delete them. But, because you have 25 GB of storage space, you can keep messages in this folder to refer to them later, if needed. Also, note that messages in the Sent folder are actually archived in All Mail, so even if you archive these messages, they stay in the Sent folder., "Archiving and Deleting Messages" 

@@ -1,0 +1,10 @@
+c0,customers,give,feedback
+c1,new,people
+c2,get,customers
+c3,increase,traffic
+c4,get,feedback
+c5,increase,comments
+c6,app,downloads
+c7,watch,video
+c8,get,data
+c9,read,status

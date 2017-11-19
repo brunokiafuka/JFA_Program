@@ -1,0 +1,15 @@
+1. "Yes. To help prevent viruses, Gmail won't accept file attachments that are executable files. There's also a 20 MB size limitation for attachments. For details, see the Gmail Help Center.", "File Attachments" 
+
+2. "Yes, if you're using a Chrome browser. Otherwise, you must browse to a file to attach it.", "File Attachments" 
+
+3. "Because Gmail is a web-based system, you can't drag a file attachment from one message to another. As a workaround, you can do the following:
+	Open the message or conversation that contains the file attachment.
+	If the file is attached to a single message, click Forward (from the drop-menu at the top of the message). If it's attached to a message in a conversation, click Forward all on the right.
+	Delete all the "forwarded" content from original messages, which appears at the bottom of your new message. Note that the file attachment remains with the forwarded message.
+	Then compose your new message and send it.
+Alternatively, you can download the attachment and then upload it to another message.", "File Attachments" 
+
+4. "No, you can't embed one message into another directly. As a workaround, you can do the following:
+	To attach a single message, open it and click Forward (from the drop-menu at the top of the message). To attach a conversation, open it click Forward all on the right.
+	Then compose your new message and send it. The earlier message will be included below your new message.
+Alternatively, you can copy the text from the earlier message and paste it into a new message", "File Attachments" 

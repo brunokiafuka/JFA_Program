@@ -1,0 +1,6 @@
+co0,more,people
+co1,send,message
+co2,visit,store
+co3,buy,products
+co4,product,catalogue
+

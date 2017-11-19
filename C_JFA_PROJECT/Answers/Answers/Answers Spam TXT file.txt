@@ -1,0 +1,6 @@
+1. "Messages remain in the Spam folder for 30 days. After that, Gmail permanently deletes them.", "Spam" 
+
+2. "If messages from a sender outside your domain are being incorrectly tagged as spam, you can prevent this from happening by creating an email filter      using the Never send it to Spam option:
+     In Gmail, click Settings > Filters > Create a new filter. 
+	Enter the person's address in the From field, and then click Next Step.
+	Select Never send it to spam, and then click Create Filter.", "Spam" 

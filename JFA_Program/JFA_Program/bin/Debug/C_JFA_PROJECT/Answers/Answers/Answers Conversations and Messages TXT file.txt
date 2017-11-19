@@ -1,0 +1,18 @@
+1. "Yes. Open the conversation and expand the individual message. From the drop-menu at the top-right of the message, click Reply or Forward.", "Conversations and Messages" 
+
+2. "Yes, you can delete one or more messages in a conversation as follows:
+	Open the conversation and expand the message you want to delete.
+	Open the drop-menu at the top-right of the message.
+	Select Delete this message.", "Conversations and Messages" 
+
+
+3. "Yes, if your browser is set to display pop-ups in a new window, you can do the following:
+    If you're reading a message, click the New Window icon in the upper-right corner of the message.
+    If you're composing a new message, click the New Window icon in the upper-right corner of the message.", "Conversations and Messages" 
+
+
+4. "Clilck Check Spelling at the top of the message you're composing. Misspelled words are highlighted in yellow. Click a misspelled word to see suggested corrections.", "Conversations and Messages" 
+
+5. 
+
+6. 

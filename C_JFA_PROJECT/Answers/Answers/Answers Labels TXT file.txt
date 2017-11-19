@@ -1,0 +1,10 @@
+1. "Instead of folders, Gmail has a "labels" feature. Labels are similar to folders, but are more powerful and flexible, because you can add multiple labels to a message to categorize it in several ways. For details, see the Gmail Help Center.", "Labels" 
+
+2. "You can create up to about 200 labels.", "Labels"
+
+3. "Yes, you can apply any number of labels to a message: Select the message in your Inbox, or open it, and select one or more labels in the Labels drop-down list at the top of your Mail window.", "Labels"
+
+4. "Yes. For details, see Create nested labels.", "Labels"
+
+5. "No. All it does is remove the label from the messages.", "Labels"
+

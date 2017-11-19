@@ -1,0 +1,9 @@
+customers,people,followers,buyers,client,individuals,consumers
+get,recieve,obtain,gain,acquire
+feedback,comments,response,reply,answer,activity
+give,send,forward,post
+increase,improve,enlarge
+brand,app,website,software,product,service,video,clip,movie
+watch,view,observe,see,read
+data,information,details
+

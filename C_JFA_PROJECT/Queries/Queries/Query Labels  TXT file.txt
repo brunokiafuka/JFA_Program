@@ -1,0 +1,9 @@
+1. "There are no folders in Gmail. How do I organize my messages?", "Label" 
+
+2. "How many labels can I create?", "Label" 
+
+3. "Can I apply more than one label to a single email message?", "Label" 
+
+4. "Can I nest labels like I nested folders in old mail program?", "Label" 
+
+5. "Does deleting a label delete any messages that have that label?", "Label" 
