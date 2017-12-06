@@ -4,7 +4,7 @@ Public Class JFA_Recognizers
 	'
 	'Public Shared _crimeFile As String = "C_JFA_PROJECT/crime.txt"
 	Public Shared synonmyn_file As String = "C_JFA_PROJECT/symbols/synJFA_Awareness.txt"
-	Public Shared jfa_file As String = "C_JFA_PROJECT/symbols/jfaBrandAwareness.txt"
+    Public Shared jfa_file As String = "C_JFA_PROJECT/symbols/jfaBrandAwareness.txt"
 	Public Shared jfa_consideration_file As String = "C_JFA_PROJECT/symbols/jfaConsiderations.txt"
 	Public Shared jfa_conversion_file As String = "C_JFA_PROJECT/symbols/jfaConversion.txt"
 

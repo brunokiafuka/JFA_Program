@@ -239,4 +239,9 @@ Public Class Utility
         Dim Levendist As Integer = GetLevenshteinDistance(userAnswer, ModelAnswer)
         Return (1 - (Levendist / Len(ModelAnswer))) * 100
     End Function
+
+    'Budget
+    Public Shared Function getUserBudget(amountArr As ArrayList)
+
+    End Function
 End Class
